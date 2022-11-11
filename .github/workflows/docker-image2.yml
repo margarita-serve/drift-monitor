@@ -3,7 +3,7 @@ name: Docker Build Test
 on:
   push:
     # master branch에 push했을 때 workflow가 돌게 됨
-    branches: [master]
+    branches: [main]
 
 jobs:
   # job 이름. job은 여러 개가 설정되어 돌아갈 수 있음.
