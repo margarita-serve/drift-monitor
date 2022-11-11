@@ -1,5 +1,5 @@
 # Drift-Monitor-API Server
-모델의 Drift를 Monitoring 하는 API 서버
+모델의 Drift를 Monitoring 하는 API 서버.
 
 ## 실행 환경설정
 ```shell
