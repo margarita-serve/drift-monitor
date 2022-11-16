@@ -7,7 +7,7 @@ on:
 
 jobs:
   # job 이름. job은 여러 개가 설정되어 돌아갈 수 있음.
-  node-sample-build:
+  image-build:
     runs-on: ubuntu-latest
     steps:
     - name: Source Code Checkout

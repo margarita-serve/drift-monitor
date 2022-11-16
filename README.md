@@ -27,7 +27,7 @@ $ python main.py
 
 ## Docker실행
 ```shell
-docker run --env-file ./.env -p 8002:8002 192.168.88.155/koreserve/drift-monitor:{tag}
+docker run --env-file ./.env -p 8002:8002 ghcr.io/margarita-serve/drift-monitor:latest
 ```
 
 ## REST-API
